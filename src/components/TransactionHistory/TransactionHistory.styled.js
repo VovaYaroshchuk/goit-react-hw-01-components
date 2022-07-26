@@ -5,7 +5,7 @@ export const TransactionHistoryStyled = styled.table`
     border-collapse: collapse;
     margin: 0 auto;
     padding: 0;
-    width: 100%;
+    width: 80%;
     height: 100%;
     background-color: #f5f5f5;
     font-size: 14px;

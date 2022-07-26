@@ -4,9 +4,9 @@ import styled from "styled-components";
     display: flex;
     flex-direction: row
     list-style: none;
-    margin: 0;
-    padding: 50px 5px 5px 5px;
-    width: 100%;
+    margin: 0 auto;
+    padding: 50px 0 5px 0;
+    width: 80%;
     height: 100%;
     background-color: #f5f5f5;
 `;
